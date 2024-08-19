@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @levidornelas
 - 👀 I’m interested in back/frontend development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and kotlin!
 - 💞️ I’m looking to collaborate on projects from beginners, as myself.
 - 📫 How to reach me: levidornelas2006@gmail.com
 - 😄 Pronouns: he/him
