@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Levi Dornelas</h1>
-<h3 align="center">A passionate fullstack developer from Brazil, actually looking for a job in web/mobile development.</h3>
+<h3 align="center">A passionate fullstack developer from Brazil, looking for a job in web/mobile development.</h3>
 
 - 🔭 I’m currently working on an web App for my startup, Pasárgada Tech. Here is the repo: [EuVI](https://github.com/levidornelas/euvi-reactjs)
 
