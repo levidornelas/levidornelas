@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="left" src="/api/placeholder/150/150" alt="Snoopy" width="150px"/>
+  <img align="left" src="https://media.npr.org/assets/img/2023/12/18/231203-0504bde00f146894da83073bba9464e2c42f4c39.png" alt="Snoopy" width="150px"/>
   <h1>Levi Dornelas</h1>
   <h3>Full Stack Developer | Web & Mobile Specialist</h3>
   <br clear="all"/>
