@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.npr.org/assets/img/2023/12/18/231203-0504bde00f146894da83073bba9464e2c42f4c39.png" alt="Snoopy" width="120px" style="border-radius: 50%;"/>
+  <img src="https://media.npr.org/assets/img/2023/12/18/231203-0504bde00f146894da83073bba9464e2c42f4c39.png" alt="Snoopy" width="120px" style="border-radius: 50%; align-left"/>
 
   # Levi Dornelas
   `Full Stack Developer` | `Web` | `Mobile`
