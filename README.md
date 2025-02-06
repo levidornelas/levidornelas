@@ -62,5 +62,5 @@ I'm always open to new opportunities, collaborations, or just a friendly chat ab
 ---
 
 <div align="center">
-  <sub>✨ Currently seeking opportunities in **web** and **mobile development**. Let's build something amazing together! ✨</sub>
+   Currently seeking opportunities in web and mobile development. Let's build something amazing together! 
 </div>
