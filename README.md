@@ -3,8 +3,6 @@
   # Levi Dornelas
   ### `Full Stack Developer` | `Web` | `Mobile`
 
-  ![Snoopy Coding](https://i.pinimg.com/736x/d9/4c/3f/d94c3fbab825e4b6ba9207fb527288b9.jpg) <!-- Replace with a direct link to a Snoopy image -->
-
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/levi-dornelas-1834592b7)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/levidornelas)
 
